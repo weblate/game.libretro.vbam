@@ -44,4 +44,4 @@ install(FILES ${PROJECT_SOURCE_DIR}/src/libretro/vbam_libretro${CMAKE_SHARED_LIB
         DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
 
 # write the vbam-config.cmake script
-file(WRITE ${CMAKE_INSTALL_PREFIX}/vbam-config.cmake "set(VBAM_LIB ${CMAKE_INSTALL_PREFIX}/lib/vbam_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")
+file(WRITE ${CMAKE_INSTALL_PREFIX}/libretro-vbam-config.cmake "set(VBAM_LIB ${CMAKE_INSTALL_PREFIX}/lib/vbam_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")

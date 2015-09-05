@@ -7,7 +7,7 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 enable_language(CXX)
 
 find_package(kodi REQUIRED)
-find_package(vbam REQUIRED)
+find_package(libretro-vbam REQUIRED)
 
 set(DEPLIBS vbam)
 set(VBAM_CUSTOM_BINARY ${VBAM_LIB}
