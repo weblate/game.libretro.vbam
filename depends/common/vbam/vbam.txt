@@ -1,1 +1,1 @@
-vbam https://github.com/libretro/vbam-libretro 2d5689b
+vbam https://github.com/libretro/vbam-libretro master
