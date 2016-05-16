@@ -8,11 +8,7 @@
 		<import addon="game.controller.gba" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="libgame.libretro.vbam.so"
-                   library_linux="game.libretro.vbam.so"
-                   library_osx="game.libretro.vbam.dylib"
-                   library_windx="game.libretro.vbam.dll"
-                   library_wingl="game.libretro.vbam.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>GBA</platforms>
 		<extensions>gba</extensions>
 		<supports_vfs>true</supports_vfs>
@@ -25,7 +21,7 @@
 Supported files: .gba
 
 License: GPLv2</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 		<nofanart>true</nofanart>
 	</extension>
 </addon>
