@@ -1,16 +1,13 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.vbam)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 find_package(libretro-vbam REQUIRED)
 
 set(DEPLIBS vbam)
 set(VBAM_CUSTOM_BINARY ${VBAM_LIB}
-                       game.libretro.vbam${CMAKE_SHARED_LIBRARY_SUFFIX} vbam)
+                       ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.vbam VBAM DEPLIBS)
+build_addon(${PROJECT_NAME} VBAM DEPLIBS)
