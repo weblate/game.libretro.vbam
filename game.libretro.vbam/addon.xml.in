@@ -17,12 +17,10 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Game Boy Advance (VBA-M) svn</summary>
+		<summary lang="en">Game Boy Advance (VBA-M) git 9699b74</summary>
 		<description>VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.
 
-Supported files: .gba
-
-License: GPLv2</description>
+Supported files: .gba</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
