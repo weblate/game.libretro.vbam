@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - Game Boy Advance (VBA-M) 1.8.0</summary>
-		<description>VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.
+		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA-M) 1.8.0</summary>
+		<description lang="en_GB">VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.
 
 Supported files: .gba</description>
 		<license>GPLv2</license>
