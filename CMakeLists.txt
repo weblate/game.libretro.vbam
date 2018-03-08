@@ -10,3 +10,5 @@ set(VBAM_CUSTOM_BINARY ${VBAM_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} VBAM "")
+
+include(CPack)
