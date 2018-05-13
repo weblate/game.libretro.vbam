@@ -52,3 +52,7 @@ msgctxt "#30008"
 msgid "Show sprite window layer"
 msgstr ""
 
+msgctxt "#30009"
+msgid "Use BIOS file (Restart)"
+msgstr ""
+
