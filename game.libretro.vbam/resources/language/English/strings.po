@@ -21,37 +21,109 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Show layer 1"
+msgid "Sensors Deadzone (%)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Show layer 2"
+msgid "(GB) Emulated Hardware"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Show layer 3"
+msgid "Sensor Sensitivity (Gyroscope) (%)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Show layer 4"
+msgid "Show layer 1"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Show sprite layer"
+msgid "Show layer 2"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Show window layer 1"
+msgid "Show layer 3"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show window layer 2"
+msgid "Show layer 4"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show sprite window layer"
+msgid "Show sprite layer"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Show window layer 1"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Show window layer 2"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Show sprite window layer"
+msgstr ""
+
+msgctxt "#30012"
+msgid "(GB) Color Palette"
+msgstr ""
+
+msgctxt "#30013"
+msgid "(GB) Show Borders"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Solar Sensor Level"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Sound channel 1"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Sound channel 2"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Sound channel 3"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Sound channel 4"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Direct Sound A"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Direct Sound B"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Sound Filtering"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Sound Interpolation"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Swap Left/Right Analog"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Sensor Sensitivity (Tilt) (%)"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Turbo Delay (in frames)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Enable Turbo Buttons"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Use BIOS file (Restart)"
 msgstr ""

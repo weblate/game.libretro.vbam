@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vbam"
 		name="Nintendo - Game Boy Advance (VBA-M)"
-		version="1.8.0.3"
+		version="2.1.0.4"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,15 +10,15 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>GBA</platforms>
-		<extensions>gba</extensions>
+		<extensions>dmg|gb|gbc|cgb|sgb|gba</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA-M) 1.8.0</summary>
+		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA-M) 2.1.0</summary>
 		<description lang="en_GB">VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.
 
-Supported files: .gba</description>
+Supported files: .dmg, .gb, .gbc, .cgb, .sgb, .gba</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.vbam</source>
