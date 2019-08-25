@@ -29,109 +29,117 @@ msgid "Sensors Deadzone (%)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "(GB) Emulated Hardware"
+msgid "Force-Enable RTC"
 msgstr ""
 
 msgctxt "#30004"
-msgid "(GB) Color Correction"
+msgid "(GB) Emulated Hardware (Needs Restart)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Sensor Sensitivity (Gyroscope) (%)"
+msgid "(GB) Color Correction"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Show background layer 1"
+msgid "Sensor Sensitivity (Gyroscope) (%)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show background layer 2"
+msgid "Show Background Layer 1"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show background layer 3"
+msgid "Show Background Layer 2"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show background layer 4"
+msgid "Show Background Layer 3"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Show sprite layer"
+msgid "Show Background Layer 4"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Show window layer 1"
+msgid "Show Sprite Layer"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Show window layer 2"
+msgid "Show Window Layer 1"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Show sprite window layer"
+msgid "Show Window Layer 2"
 msgstr ""
 
 msgctxt "#30014"
-msgid "(GB) Color Palette"
+msgid "Show Sprite Window Layer"
 msgstr ""
 
 msgctxt "#30015"
-msgid "(GB) Show Borders"
+msgid "(GB) Color Palette"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Solar sensor level"
+msgid "Show Advanced Options"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Sound channel 1"
+msgid "(GB) Show Borders"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Sound channel 2"
+msgid "Solar Sensor Level"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Sound channel 3"
+msgid "Sound Channel 1"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Sound channel 4"
+msgid "Sound Channel 2"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Sound DMA channel A"
+msgid "Sound Channel 3"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Sound DMA channel B"
+msgid "Sound Channel 4"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Sound Filtering"
+msgid "Sound DMA Channel A"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Sound Interpolation"
+msgid "Sound DMA Channel B"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Swap Left/Right Analog"
+msgid "Sound Filtering"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Sensor Sensitivity (Tilt) (%)"
+msgid "Sound Interpolation"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Turbo Delay (in frames)"
+msgid "Swap Left/Right Analog"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Enable Turbo Buttons"
+msgid "Sensor Sensitivity (Tilt) (%)"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Use BIOS file if available (Restart)"
+msgid "Turbo Delay (in frames)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Enable Turbo Buttons"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Use Official BIOS (If Available)"
 msgstr ""
