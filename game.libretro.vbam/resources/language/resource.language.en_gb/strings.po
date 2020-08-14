@@ -45,101 +45,109 @@ msgid "Sensor Sensitivity (Gyroscope) (%)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show Background Layer 1"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show Background Layer 2"
+msgid "Show Background Layer 1"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show Background Layer 3"
+msgid "Show Background Layer 2"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Show Background Layer 4"
+msgid "Show Background Layer 3"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Show Sprite Layer"
+msgid "Show Background Layer 4"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Show Window Layer 1"
+msgid "Show Sprite Layer"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Show Window Layer 2"
+msgid "Show Window Layer 1"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Show Sprite Window Layer"
+msgid "Show Window Layer 2"
 msgstr ""
 
 msgctxt "#30015"
-msgid "(GB) Color Palette"
+msgid "Show Sprite Window Layer"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Show Advanced Options"
+msgid "LCD Color Filter"
 msgstr ""
 
 msgctxt "#30017"
-msgid "(GB) Show Borders"
+msgid "(GB) Color Palette"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Solar Sensor Level"
+msgid "Show Advanced Options"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Sound Channel 1"
+msgid "(GB) Show Borders"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Sound Channel 2"
+msgid "Solar Sensor Level"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Sound Channel 3"
+msgid "Sound Channel 1"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Sound Channel 4"
+msgid "Sound Channel 2"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Sound DMA Channel A"
+msgid "Sound Channel 3"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Sound DMA Channel B"
+msgid "Sound Channel 4"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Sound Filtering"
+msgid "Sound DMA Channel A"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Sound Interpolation"
+msgid "Sound DMA Channel B"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Swap Left/Right Analog"
+msgid "Sound Filtering"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Sensor Sensitivity (Tilt) (%)"
+msgid "Sound Interpolation"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Turbo Delay (in frames)"
+msgid "Swap Left/Right Analog"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Enable Turbo Buttons"
+msgid "Sensor Sensitivity (Tilt) (%)"
 msgstr ""
 
 msgctxt "#30031"
+msgid "Turbo Delay (in frames)"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Enable Turbo Buttons"
+msgstr ""
+
+msgctxt "#30033"
 msgid "Use Official BIOS (If Available)"
 msgstr ""
