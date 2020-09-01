@@ -1,1 +1,1 @@
-vbam https://github.com/libretro/vbam-libretro/archive/6b70aa5de55d560e88d33917333a0ad841693737.zip
+vbam https://github.com/libretro/vbam-libretro/archive/36b011c72e5e6f7be4cebb24f3b8324ec209aef0.zip
